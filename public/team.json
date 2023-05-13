@@ -1,0 +1,58 @@
+{
+  "experts": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "image": "https://i.ibb.co/JQwrQBJ/1.jpg",
+      "title": "Senior Researcher"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "image": "https://i.ibb.co/XSfMZSp/2.jpg",
+      "title": "Data Scientist"
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "image": "https://i.ibb.co/sFBmjgz/3.jpg",
+      "title": "Software Engineer"
+    },
+    {
+      "id": 4,
+      "name": "Sarah Williams",
+      "image": "https://i.ibb.co/JQwrQBJ/1.jpg",
+      "title": "Product Manager"
+    },
+    {
+      "id": 5,
+      "name": "David Brown",
+      "image": "https://i.ibb.co/XSfMZSp/2.jpg",
+      "title": "UX Designer"
+    },
+    {
+      "id": 6,
+      "name": "Emily Davis",
+      "image": "https://i.ibb.co/sFBmjgz/3.jpg",
+      "title": "Marketing Specialist"
+    },
+    {
+      "id": 7,
+      "name": "Daniel Wilson",
+      "image": "https://i.ibb.co/JQwrQBJ/1.jpg",
+      "title": "Financial Analyst"
+    },
+    {
+      "id": 8,
+      "name": "Olivia Garcia",
+      "image": "https://i.ibb.co/XSfMZSp/2.jpg",
+      "title": "HR Manager"
+    },
+    {
+      "id": 9,
+      "name": "Robert Thompson",
+      "image": "https://i.ibb.co/sFBmjgz/3.jpg",
+      "title": "Operations Director"
+    }
+  ]
+}
